@@ -10,6 +10,7 @@ The application continuously prompts the user for input until they choose to qui
 
 ## Create a `.env` File:
 In the root directory of your project, Create a file named `.env` and add the following lines, and replacing the placeholders with your actual values:
+
 AI_SERVICES_ENDPOINT=`<your-text-analytics-endpoint>`
 
 AI_SERVICE_KEY=`<your-text-analytics-key>`
