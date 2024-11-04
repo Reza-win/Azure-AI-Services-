@@ -1,10 +1,5 @@
 # there should be a environment variable which would contain the key and the endpoint of azure ai service and th rest thing will remain same
 
-
-
-
-
-
 #this is the rest_client.py file
 
 from dotenv import load_dotenv
@@ -81,11 +76,6 @@ def GetLanguage(text):
 
 if _name_ == "_main_":
     main()
-
-
-
-
-
 
 
 #this one is the clientsdk.py
