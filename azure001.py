@@ -1,6 +1,6 @@
-# there should be a environment variable which would contain the key and the endpoint of azure ai service and th rest thing will remain same
+# There should be a environment variable which would contain the key and the endpoint of azure ai service and th rest thing will remain same
 
-#this is the rest_client.py file
+#This is the rest_client.py file
 
 from dotenv import load_dotenv
 import os
